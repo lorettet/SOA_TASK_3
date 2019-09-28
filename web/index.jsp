@@ -12,5 +12,6 @@
 </head>
 <body>
 <p><a href="rest/exercises">Exercises</a>
+<p><a href="rest/users">Users</a>
 </body>
 </html>
